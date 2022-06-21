@@ -1,1 +1,1 @@
-***this file is mandatory in projects***
+~the command uname print
